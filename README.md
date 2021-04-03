@@ -10,7 +10,7 @@ Looking for new opportunities to grow professionally and personally.
 ## :space_invader: Tech and Tools
 - HTML5
 - CSS3
-- JAVA SCRIPT
+- JAVASCRIPT
 - REACT
 - NODE JS
 - VS CODE
