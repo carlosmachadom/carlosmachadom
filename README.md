@@ -5,7 +5,7 @@ Looking for new opportunities to grow professionally and personally.
 - :computer: Passionate about Web Development
 - :art: Passionate about UI/UX Design
 - :hourglass_flowing_sand: Long life learner
-- :notebook_with_decorative_cover: All my class notes on [Notion](https://www.notion.so/4a61a387328249cb8ba1989f889fc5a9?v=b26a271207d143d788aa22b9a21bba12)
+- :notebook_with_decorative_cover: All my class notes on [Notion](https://bit.ly/3fABDaF)
 
 ## :space_invader: Tech and Tools
 - HTML5
@@ -17,8 +17,8 @@ Looking for new opportunities to grow professionally and personally.
 - GIT & GITHUB :octocat:
 
 ## Contact me
-:iphone: [LinkedIn](https://www.linkedin.com/in/carlos-dario-machado-mejia/) </br>
-:iphone: [Twitter](https://twitter.com/Kusagui_)
+:iphone: [LinkedIn](https://bit.ly/3cP0iGN) </br>
+:iphone: [Twitter](https://bit.ly/39HLKXg)
 
 <!---
 Kusagui/Kusagui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
