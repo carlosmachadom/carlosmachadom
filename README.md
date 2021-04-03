@@ -11,7 +11,6 @@ Looking for new opportunities to grow professionally and personally.
 - HTML5
 - CSS3
 - JAVA SCRIPT
-- VS CODE
 - NODE JS
 - REACT
 
