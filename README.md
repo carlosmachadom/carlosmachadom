@@ -11,8 +11,10 @@ Looking for new opportunities to grow professionally and personally.
 - HTML5
 - CSS3
 - JAVA SCRIPT
-- NODE JS
 - REACT
+- NODE JS
+- VS CODE
+- GIT & GITHUB :octocat:
 
 ## Contact me
 :iphone: [LinkedIn](https://www.linkedin.com/in/carlos-dario-machado-mejia/) </br>
