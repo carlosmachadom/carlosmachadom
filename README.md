@@ -5,7 +5,7 @@ Looking for new opportunities to grow professionally and personally.
 - :computer: Passionate about Web Development
 - :art: Passionate about UI/UX Design
 - :hourglass_flowing_sand: Long life learner
-- :notebook_with_decorative_cover: All my class notes on [Notion](https://bit.ly/3fABDaF)
+- :notebook_with_decorative_cover: All my class notes on <a href="https://bit.ly/3fABDaF" target="_blank">Notion</a>
 
 ## :space_invader: Tech and Tools
 - HTML5
