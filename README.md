@@ -16,9 +16,9 @@ Looking for new opportunities to grow professionally and personally.
 - VS CODE
 - GIT & GITHUB :octocat:
 
-## Contact me
-:iphone: [LinkedIn](https://bit.ly/3cP0iGN) </br>
-:iphone: [Twitter](https://bit.ly/39HLKXg)
+## :mailbox: Contact me
+- [LinkedIn](https://bit.ly/3cP0iGN) </br>
+- [Twitter](https://bit.ly/39HLKXg)
 
 <!---
 Kusagui/Kusagui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
