@@ -13,8 +13,8 @@ Looking for new opportunities to grow professionally and personally.
 - JAVASCRIPT
 - REACT
 - NODE JS
-- VS CODE
 - GIT & GITHUB :octocat:
+- VS CODE
 
 ## :mailbox: Contact me
 - [LinkedIn](https://bit.ly/3cP0iGN) </br>
