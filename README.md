@@ -1,5 +1,5 @@
 # Hi, 👋 I’m Carlos
-I am a self-taught web developer that currently lives in Colombia.</br>
+I am a web developer that currently lives in Colombia.</br>
 Looking for new opportunities to grow professionally and personally.
 
 - :computer: Passionate about Web Development
