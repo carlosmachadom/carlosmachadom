@@ -13,6 +13,7 @@ Looking for new opportunities to grow professionally and personally.
 - JAVASCRIPT
 - REACT
 - NODE JS
+- Express
 - GIT & GITHUB :octocat:
 - VS CODE
 
