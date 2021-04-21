@@ -16,8 +16,8 @@ Looking for new opportunities to grow professionally and personally.
 - Express
 - GIT & GITHUB :octocat:
 - VS CODE
-- Illustrator
-- Adobe XD
+- Adobe Illustrator 🎨
+- Adobe XD 📱
 
 ## :mailbox: Contact me
 - [LinkedIn](https://bit.ly/3cP0iGN) </br>
