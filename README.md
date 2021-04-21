@@ -8,6 +8,7 @@ Looking for new opportunities to grow professionally and personally.
 - :notebook_with_decorative_cover: All my notes on <a href="https://bit.ly/3fABDaF" target="_blank">Notion</a>
 
 ## :space_invader: Tech and Tools
+- Visual Studio Code
 - HTML5
 - CSS3
 - JAVASCRIPT
@@ -15,7 +16,6 @@ Looking for new opportunities to grow professionally and personally.
 - NODE JS
 - Express
 - GIT & GITHUB :octocat:
-- VS CODE
 - Adobe Illustrator 🎨
 - Adobe XD 📱
 
