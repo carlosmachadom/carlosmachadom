@@ -15,7 +15,7 @@ Looking for new opportunities to grow professionally and personally.
 - REACT
 - NODE JS
 - Express
-- GIT & GITHUB :octocat:
+- Git & GitHub :octocat:
 - Adobe Illustrator 🎨
 - Adobe XD 📱
 
