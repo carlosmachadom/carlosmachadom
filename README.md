@@ -12,9 +12,7 @@ Looking for new opportunities to grow professionally and personally.
 - HTML5
 - CSS3
 - JAVASCRIPT
-- REACT
-- NODE JS
-- Express
+- React
 - Git & GitHub :octocat:
 - Adobe Illustrator 🎨
 - Adobe XD 📱
