@@ -1,6 +1,5 @@
 # Hi, 👋 I’m Carlos
-I am a web developer that currently lives in Colombia.</br>
-Looking for new opportunities to grow professionally and personally.
+I am a web developer that is interested in frontend design and frontend architect (MOBILE FIRST).
 
 - :computer: Passionate about Web Development
 - :art: Passionate about UI/UX Design
