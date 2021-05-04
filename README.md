@@ -11,7 +11,6 @@ I am a web developer that is interested in frontend design and frontend architec
 - HTML5
 - CSS3
 - JAVASCRIPT
-- React
 - Git & GitHub :octocat:
 - Adobe Illustrator 🎨
 - Adobe XD 📱
