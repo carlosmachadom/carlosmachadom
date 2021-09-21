@@ -13,7 +13,7 @@ I am a web developer that is interested in frontend design and frontend architec
 - JAVASCRIPT
 - Git & GitHub :octocat:
 - Adobe Illustrator 🎨
-- Adobe XD 📱
+- Figma 📱
 
 ## :mailbox: Contact me
 - [LinkedIn](https://bit.ly/3cP0iGN) </br>
