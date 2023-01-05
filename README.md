@@ -6,7 +6,7 @@ I am a passionate Frontend web developer with experience in HTML, CSS, and JavaS
 - :hourglass_flowing_sand: Self taught
 
 ## :space_invader: Tech and Tools
-- :computer: Web esentials: HTML, CSS3, and Javascript
+- :computer: Web essentials: HTML, CSS3, and Javascript
 - :octocat: Version control system: Git & GitHub 
 - :art: Design tools for web development: Figma
 
