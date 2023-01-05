@@ -1,19 +1,14 @@
 # Hi, 👋 I’m Carlos
-I am a web developer that is interested in frontend design and frontend architect (MOBILE FIRST).
+I am a passionate Frontend web developer with experience in HTML, CSS, and JavaScript. Currently, I work in the Marketing department of a software consulting firm, where I am responsible for designing email layouts for marketing campaigns and occasionally collaborating on web development for A/B testing for CRO. I am also particularly interested in learning about technologies such as React and Next.js to improve the scalability and performance of web applications.
 
-- :computer: Passionate about Web Development
-- :art: Passionate about UI/UX Design
-- :hourglass_flowing_sand: Long life learner
-- :notebook_with_decorative_cover: All my notes on <a href="https://bit.ly/3fABDaF" target="_blank">Notion</a>
+- :computer: Passionate about user interfaces
+- :art: Love coding and UI/UX Design
+- :hourglass_flowing_sand: Self taught
 
 ## :space_invader: Tech and Tools
-- Visual Studio Code
-- HTML5
-- CSS3
-- JAVASCRIPT
-- Git & GitHub :octocat:
-- Adobe Illustrator 🎨
-- Figma 📱
+- :computer: Web esentials: HTML, CSS3, and Javascript
+- :octocat: Version control system: Git & GitHub 
+- :art: Design tools for web development: Figma
 
 ## :mailbox: Contact me
 - [LinkedIn](https://bit.ly/3cP0iGN) </br>
