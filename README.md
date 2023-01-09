@@ -10,8 +10,7 @@ I am a passionate Frontend web developer with experience in HTML, CSS, and JavaS
 - :art: Design tools for web development: Figma
 
 ## :mailbox: Contact me
-- [LinkedIn](https://bit.ly/3cP0iGN) </br>
-- [Twitter](https://bit.ly/39HLKXg)
+- [LinkedIn](https://bit.ly/3cP0iGN)
 
 <!---
 Kusagui/Kusagui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
