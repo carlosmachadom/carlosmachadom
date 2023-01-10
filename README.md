@@ -1,5 +1,5 @@
 # Hi, 👋 I’m Carlos
-I am a passionate Frontend web developer with experience in HTML, CSS, and JavaScript. Currently, I work in the Marketing department of a software consulting firm, where I am responsible for designing email layouts for marketing campaigns and occasionally collaborating on web development for A/B testing for CRO. I am also particularly interested in learning about technologies such as React and Next.js to improve the scalability and performance of web applications.
+Frontend web developer with experience in HTML, CSS, and JavaScript. Currently, I work in the Marketing department of a software consulting firm, where I am responsible for designing email layouts for marketing campaigns and occasionally collaborating on web development for A/B testing for CRO. I am also particularly interested in learning about technologies such as React and Next.js to improve the scalability and performance of web applications.
 
 ## 🛠️ Tech and Tools
 - <strong>Web essentials:</strong> HTML, CSS3, and Javascript. 💻📱
