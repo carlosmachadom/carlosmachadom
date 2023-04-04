@@ -1,5 +1,5 @@
 # Hello, 👋 I’m Carlos Machado
-Web developer based in Colombia 🇨🇴, passionate about technology and creating digital products. I specialize in front-end development. My goal is to build friendly, responsive, and accessible web applications that help people solve their problems.
+Web developer based in Colombia :🇨🇴:, passionate about technology and creating digital products. I specialize in front-end development. My goal is to build friendly, responsive, and accessible web applications that help people solve their problems.
 
 - 👨‍💻 I currently work as a Web Developer Analyst at Accenture Colombia.
 - 🚀 I love to learn new technologies and stay up-to-date with the latest trends in the industry.
