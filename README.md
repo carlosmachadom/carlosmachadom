@@ -1,8 +1,13 @@
-# Hi, 👋 I’m Carlos
-Frontend web developer with experience in HTML, CSS, and JavaScript. Currently, I work in the Marketing department of a software consulting firm, where I am responsible for designing email layouts for marketing campaigns and occasionally collaborating on web development for A/B testing for CRO. I am also particularly interested in learning about technologies such as React and Next.js to improve the scalability and performance of web applications.
+# Hello, 👋 I’m Carlos Machado
+Web developer based in Colombia 🇨🇴, passionate about technology and creating digital products. I specialize in front-end development. My goal is to build friendly, responsive, and accessible web applications that help people solve their problems.
+
+- 👨‍💻 I currently work as a Web Developer Analyst at Accenture Colombia.
+- 🚀 I love to learn new technologies and stay up-to-date with the latest trends in the industry.
+- 🎓 I'm a self-taught student and stay updated through courses and personal projects.
+- 🎮 When I'm not programming, I enjoy playing video games, watching movies, reading, and learning new things.
 
 ## 🛠️ Tech and Tools
-- <strong>Web essentials:</strong> HTML, CSS3, and Javascript 💻📱
+- <strong>Web essentials:</strong> HTML, CSS3, Javascript, and React 💻📱
 - <strong>Version control system:</strong> Git & GitHub :octocat:
 - <strong>Design tools for web development:</strong> Figma :art:
 
