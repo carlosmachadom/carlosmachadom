@@ -7,7 +7,7 @@ Web developer based in Colombia, passionate about technology and creating digita
 - 🎮 When I'm not programming, I enjoy playing video games, watching movies, reading, and learning new things.
 
 ## 🛠️ Tech and Tools
-- <strong>Web essentials:</strong> HTML, CSS3, Javascript, and React 💻📱
+- <strong>Web essentials:</strong> HTML, CSS, Javascript, and React 💻📱
 - <strong>Version control system:</strong> Git & GitHub :octocat:
 - <strong>Design tools for web development:</strong> Figma :art:
 
