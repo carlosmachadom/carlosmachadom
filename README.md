@@ -4,7 +4,6 @@ Web developer based in Colombia, passionate about technology and creating digita
 - 👨‍💻 I currently work as a Web Developer Analyst at Accenture Colombia.
 - 🚀 I love to learn new technologies and stay up-to-date with the latest trends in the industry.
 - 🎓 I'm a self-taught student and stay updated through courses and personal projects.
-- 🎮 When I'm not programming, I enjoy playing video games, watching movies, reading, and learning new things.
 
 ## 🛠️ Tech and Tools
 - <strong>Web essentials:</strong> HTML, CSS, Javascript, and React 💻📱
